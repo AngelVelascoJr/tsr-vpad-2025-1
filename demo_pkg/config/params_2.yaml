@@ -1,0 +1,12 @@
+/MyParams:
+  ros__parameters:
+    ang_vel: 0.6534
+    controller:
+    - 0.05
+    - 0.7
+    - 10000.0
+    label_str: hola_mundo
+    lin_vel: 0.17545
+    param_int: 30
+    timer_period: 0.05
+
